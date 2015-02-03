@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	word-wrap: break-word; /*换行断句*/
+	word-break: break-all; /*直接断句*/
+}
+body {
+	background: #fff;
+	color: #333;
+	font: 12px/1.5em Helvetica, Arial, sans-serif;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+img {
+	border: none;
+}
